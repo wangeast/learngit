@@ -13,3 +13,6 @@ git status
 
 查看修改内容
 git diff
+
+查看历史记录
+git log
