@@ -7,3 +7,9 @@ git add ...
 
 提交至仓库
 git commit -m "balabala"
+
+查看状态
+git status
+
+查看修改内容
+git diff
