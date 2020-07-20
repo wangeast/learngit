@@ -22,3 +22,9 @@ git reset --hard ...(版本号或head^标识符)
 
 查看命令历史
 git reflog
+
+丢弃暂存区修改
+git restore -- staged filename
+
+将工作区回退至上一次add或commit时状态
+git checkout -- filename
