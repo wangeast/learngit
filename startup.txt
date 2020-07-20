@@ -1,0 +1,9 @@
+Git is a version control system.
+Git is free software.
+to start git 
+
+添加至仓库
+git add ...
+
+提交至仓库
+git commit -m "balabala"
